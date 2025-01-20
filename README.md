@@ -62,5 +62,3 @@ Atualmente, estou explorando:
 - 🌸 Fã de animes e mangás..
 
 ---
-
-![Snake animation](https://github.com/Cmmagnus/Cmmagnus/blob/output/github-contribution-grid-snake.svg)
