@@ -1,4 +1,4 @@
-👋 Olá, sou Carlos Magno! 
+👋 Olá, eu sou o Carlos Magno! 
 
 Sou formado em **Química** e **Segurança da Informação**, com expertise em múltiplas áreas técnicas e tecnológicas. Além disso, possuo formações técnicas em **Química Industrial**, **Informática** e **Desenvolvimento de Sistemas**. Meu objetivo é integrar o conhecimento técnico-científico ao universo da tecnologia, desenvolvendo soluções inovadoras e impactantes.
 
